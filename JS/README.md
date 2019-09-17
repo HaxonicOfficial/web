@@ -1,3 +1,1 @@
-# Word Game using JS
-
-will be updated soon
+Mini Projects/Repos on JavaScript
